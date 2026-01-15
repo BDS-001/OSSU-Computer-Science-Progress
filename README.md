@@ -6,8 +6,9 @@ My progress through the [Open Source Society University Computer Science](https:
 
 ## In Progress
 
-| Course | Section | Notes |
-|:-------|:--------|:------|
+| Course | Section | Progress | Notes |
+|:-------|:--------|:---------|:------|
+| [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Core Programming | Lessons 1-7 | |
 
 ---
 
@@ -17,11 +18,13 @@ My progress through the [Open Source Society University Computer Science](https:
 
 | Course | Notes |
 |:-------|:------|
+| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Lessons 1-26 |
 
 ### Core Programming
 
 | Course | Notes |
 |:-------|:------|
+| [Systematic Program Design](https://www.edx.org/course/how-code-simple-data) | Lessons 0-11 |
 
 ### Core Math
 
